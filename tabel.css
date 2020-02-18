@@ -1,0 +1,10 @@
+/* CSS Document */
+TH {
+color : #CCE9FD; background-color : #345487; border-width: 1px;
+border-style: solid; border-color :black ; font-size: 9pt;
+}
+TD {
+color : blue;
+background-color : #DFE6EF; border-width: 1px;
+border-style:solid; border-color :black ; font-size: 9pt;
+}
